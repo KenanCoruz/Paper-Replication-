@@ -47,7 +47,7 @@ The goal is to reproduce the paper’s results, test robustness under different 
 
 # Suggestions for future projects 
 - Test with **alternative weighting** (volatility targeting, risk parity).  
-- Apply other assets suchg as crypto, other bond markets and equities from more different sectors.  
+- Apply other assets such as crypto, other bond markets and equities from more different sectors.  
 
 ---
 
